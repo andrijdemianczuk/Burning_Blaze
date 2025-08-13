@@ -4,7 +4,6 @@ class SU:
 
     @property
     def password(self):
-        # Expose via property; no setter => read-only
         return self._password
 
 
@@ -24,7 +23,6 @@ class User(SU):
     def email(self):
         return self._email
 
-    # If you later decide to allow updates, add setters with validation:
     @name.setter
     def name(self, value):
         if not value:
