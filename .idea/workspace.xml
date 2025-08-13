@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec69059e-cee5-46f4-821b-51de45d3b85c" name="Changes" comment="added first class library">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/User.py" beforeDir="false" afterPath="$PROJECT_DIR$/entities/User.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="ec69059e-cee5-46f4-821b-51de45d3b85c" name="Changes" comment="Fixed superclass behaviour" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755101326407</updated>
-      <workItem from="1755101327467" duration="2488000" />
+      <workItem from="1755101327467" duration="2895000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -110,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755106232152</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fixed superclass behaviour">
+      <option name="closed" value="true" />
+      <created>1755106777268</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755106777268</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +135,8 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="added README.md" />
     <MESSAGE value="added first class library" />
-    <option name="LAST_COMMIT_MESSAGE" value="added first class library" />
+    <MESSAGE value="Fixed superclass behaviour" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed superclass behaviour" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
