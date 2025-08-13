@@ -2,7 +2,7 @@
 
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-from entities.User import User as User
+from src.entities.User import User as User
 
 
 def print_hi(name):

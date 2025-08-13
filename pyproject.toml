@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "burning_blaze"
+version = "0.1.0"
+description = "My awesome description of a wheel file."
+authors = ["Andrij Demianczuk <andrij.demianczuk@databricks.com>"]
+readme = "README.md"
+license = "MIT"
+
+# Map the package to the src directory
+packages = [{ include = "entities", from = "src" }]
+
+# Optional: include data files in the wheel
+include = ["src/entities/**/*.json", "src/entities/**/*.yaml"]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.8.0"]
+build-backend = "poetry.core.masonry.api"
