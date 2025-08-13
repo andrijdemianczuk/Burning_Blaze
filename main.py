@@ -14,7 +14,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi("Andrij")
     user = User(name="Andrij", email="andrij.demianczuk@gmail.com", password="123456")
-    print(user.getName())
-    print(user.getEmail())
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    print(user.name)
+    print(user.email)
+    print(user.password)
