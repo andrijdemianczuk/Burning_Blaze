@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec69059e-cee5-46f4-821b-51de45d3b85c" name="Changes" comment="added requirements file">
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/__init__.py" afterDir="false" />
+    <list default="true" id="ec69059e-cee5-46f4-821b-51de45d3b85c" name="Changes" comment="Updated comments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/User.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/User.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755101326407</updated>
-      <workItem from="1755101327467" duration="4598000" />
+      <workItem from="1755101327467" duration="6223000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -136,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755107492065</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fixed poetry build pyproject.toml">
+      <option name="closed" value="true" />
+      <created>1755108898760</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1755108898760</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated comments">
+      <option name="closed" value="true" />
+      <created>1755109043672</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1755109043672</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +169,9 @@
     <MESSAGE value="added first class library" />
     <MESSAGE value="Fixed superclass behaviour" />
     <MESSAGE value="added requirements file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added requirements file" />
+    <MESSAGE value="fixed poetry build pyproject.toml" />
+    <MESSAGE value="Updated comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated comments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
